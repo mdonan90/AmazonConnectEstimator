@@ -1,2 +1,2 @@
-# serverless-calculator
-The calculator to work out pricing for serverless (function-as-a-service) technologies
+# Amazon Connect Estimator
+The calculator to estimate pricing for Amazon Connect
